@@ -1,5 +1,6 @@
 # Kunitz Domain HMM Project
 This repository contains the workflow of building a Profile Hidden Markov Model (HMM) for the Kunitz-type protease inhibitor domain. 
+
 This project was developed as part of the Laboratory of Bioinformatics I course at the University of Bologna.
 
 #Project Aim
@@ -25,6 +26,7 @@ Kunitz domains are highly conserved and functionally important protein regions t
 The model was successfully trained on 23 non-redundant sequences and validated against an independent dataset.
 
 **Optimal Threshold:** An E-value of **3e-5** was selected as the optimal threshold for classification.
+
 **Performance Metrics:** The model achieved near-perfect performance with highly imbalanced data:
 - **Accuracy:** 0.99999477
 - **Matthews Correlation Coefficient (MCC):** 0.9959277
