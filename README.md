@@ -26,6 +26,6 @@ The model was successfully trained on 23 non-redundant sequences and validated a
 
 **Optimal Threshold:** An E-value of **3e-5** was selected as the optimal threshold for classification.
 **Performance Metrics:** The model achieved near-perfect performance with highly imbalanced data:
-    **Accuracy:** 0.99999477
-    **Matthews Correlation Coefficient (MCC):** 0.9959277
+- **Accuracy:** 0.99999477
+- **Matthews Correlation Coefficient (MCC):** 0.9959277
 **Classification:** The model successfully identified Kunitz domains with only **2 False Positives (FP)** and **1 False Negative (FN)** across the entire test set.
