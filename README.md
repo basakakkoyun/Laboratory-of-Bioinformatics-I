@@ -3,7 +3,7 @@ This repository contains the workflow of building a Profile Hidden Markov Model 
 
 This project was developed as part of the Laboratory of Bioinformatics I course at the University of Bologna.
 
-#Project Aim
+## Project Aim
 Kunitz domains are highly conserved and functionally important protein regions that specifically inhibit serine proteases. The goal of this study is to develop and validate a selective Hidden Markov Model that captures the position-specific conservation of Kunitz domains.
 
 ## Project Overview
